@@ -7,6 +7,5 @@ Allowing easy access to prebuild images. Be aware that support for these boards 
 # Currently supported motherboards
 * Asus A88XM-E
 * Asus F2A85-M
-* Asus F2A85-M2
 * Asus F2A85-M PRO
 * Asus F2A85-M LE
