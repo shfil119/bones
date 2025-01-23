@@ -9,3 +9,10 @@ Allowing easy access to prebuild images. Be aware that support for these boards 
 * Asus F2A85-M
 * Asus F2A85-M PRO
 * Asus F2A85-M LE
+
+# Limitations
+Currently images don't include vrom, this means that dedicated gpu is required. 
+
+USB 3.0 port as USB 2.0.
+
+TurboBoost not working.
