@@ -17,3 +17,11 @@ Currently images don't include vrom, this means that dedicated gpu is required.
 USB 3.0 port as USB 2.0.
 
 TurboBoost not working.
+
+# Building on your own
+
+```
+make crossgcc-i386 CPUS=$(nproc)
+make nconfig 
+make -j$(nproc)
+```
