@@ -21,6 +21,7 @@ TurboBoost not working.
 # Building on your own
 
 ```
+git clone --recursive https://github.com/shfil119/bones-coreboot.git --branch 4.18_branch
 make crossgcc-i386 CPUS=$(nproc)
 make nconfig 
 make -j$(nproc)
